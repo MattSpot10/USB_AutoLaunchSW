@@ -1,0 +1,11 @@
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\icon.ico
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\HELP.html
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\USB_AutoLaunchSW.exe
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\USB_AutoLaunchSW.dll
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\USB_AutoLaunchSW.deps.json
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\USB_AutoLaunchSW.runtimeconfig.json
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\USB_AutoLaunchSW.pdb
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\Newtonsoft.Json.dll
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\System.CodeDom.dll
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\System.Management.dll
+C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\publish\runtimes\win\lib\net8.0\System.Management.dll
