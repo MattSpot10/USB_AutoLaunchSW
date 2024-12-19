@@ -60,6 +60,6 @@ This software was originally developed to launch the EMBO (EMBedded Oscillsocpe 
 - This software was developed in Visual Studio, and the installer was made with HM NIS EDIT.
 
 ### **Download Installer (Windows)**
-USB_AutoLaunchSW-1.0.0_Win32_installer.zip
+[USB_AutoLaunchSW-1.0.0_Win32_installer.zip](https://github.com/MattSpot10/USB_AutoLaunchSW/releases/download/v1.0.0/USB_AutoLaunchSW-1.0.0_Win32_installer.zip)
 
 (If the app does not seem to work after install, try running it as administrator.)
