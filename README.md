@@ -1,11 +1,13 @@
+![Oscilloscope IMG](https://github.com/MattSpot10/USB_AutoLaunchSW/blob/main/src/USB_AutoLaunchSW/icon.png)
 ### **Description**
-USB_AutoLaunchSW is a USB event triggered application launcher and optional terminator. This software runs in the background, starts on startup (when installed by the installer), and is accesable through the system tray in Windows. When a USB device insert or remove event is triggered, the software checks the new USB device's Hardware ID against identifiers in the JSON configuration file. If it matches the identifiers in the file it executes or terminates the software defined in that section of the JSON file.
+USB_AutoLaunchSW is a USB event triggered application launcher and optional terminator. This software runs in the background, starts on startup (when installed by the installer), and is accessible through the system tray in Windows. When a USB device insert or remove event is triggered, the software checks the new USB device's Hardware ID against identifiers in the JSON configuration file. If it matches the identifiers in the file, it executes or terminates the software defined in that section of the JSON file.
 
-This software was orignally developed to launch the EMBO (EMBedded Oscillsocpe app) when supported STM32 devices were connected but it evolved to support all PnP devices and additional configurations.
+This software was originally developed to launch the EMBO (EMBedded Oscillsocpe app) when supported STM32 devices were connected, but it has evolved to support all PnP devices and additional configurations.
 
 **Use cases**
 - Launching IDEs when a specific USB device is inserted.
 - Launching serial monitors when RS-232 FTDI or other serial devices are connected.
+- Launching media software when connecting media devices.
 - etc.
 
 
@@ -50,9 +52,12 @@ This software was orignally developed to launch the EMBO (EMBedded Oscillsocpe a
 ```
 
 **Notes:**
-- The ```"RunningProcess": ""``` property doesn't do anything so it can be left blank but included for aditional configurations.
+- The ```"RunningProcess": ""``` property doesn't do anything, so it can be left blank but included for additional configurations.
 - All PnP (Plug and Play) devices should work.
-- The config.JSON file can be accessed through the ```Configure``` option in the system tray after which the user will need to select the ```Reset``` option to reload the configuration.
+- The config.JSON file can be accessed through the ```Configure``` option in the system tray, after which the user will need to select the ```Reset``` option to reload the configuration.
 
 **Additional info**
-- This software was developed in Visual Studio and the installer was made with HM NIS EDIT.
+- This software was developed in Visual Studio, and the installer was made with HM NIS EDIT.
+
+### **Download Installer (Windows)**
+USB_AutoLaunchSW-1.0.0_Win32_installer.zip
