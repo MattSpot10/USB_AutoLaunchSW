@@ -61,3 +61,5 @@ This software was originally developed to launch the EMBO (EMBedded Oscillsocpe 
 
 ### **Download Installer (Windows)**
 USB_AutoLaunchSW-1.0.0_Win32_installer.zip
+
+(If the app does not seem to work after install, try running it as administrator.)
