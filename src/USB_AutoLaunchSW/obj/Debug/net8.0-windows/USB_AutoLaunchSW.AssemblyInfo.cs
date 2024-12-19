@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("USB_AutoLaunchSW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97515098a1f4f4e6dbc4e805fb54125b2f9d8d9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2a0caa3cf62937c89f506fa4e283ec6c488df0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("USB_AutoLaunchSW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("USB_AutoLaunchSW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
