@@ -38,7 +38,7 @@
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\installer\USB_AutoLaunchSW-${PRODUCT_VERSION}_Win32__Installer.exe"
+OutFile "C:\Users\MattSpot10\Documents\GitHub\USB_AutoLaunchSW\installer\USB_AutoLaunchSW-${PRODUCT_VERSION}_Win32_Installer.exe"
 InstallDir "$PROGRAMFILES\USB_AutoLaunchSW"
 InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""
 ShowInstDetails show
