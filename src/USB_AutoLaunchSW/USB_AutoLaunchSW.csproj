@@ -7,6 +7,14 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+
+	  <!-- Versioning Information -->
+	  <Version>1.0.1</Version>
+	  <!-- Version of the app -->
+	  <FileVersion>1.0.1.0</FileVersion>
+	  <!-- File version for Windows Explorer properties -->
+	  <AssemblyVersion>1.0.1.0</AssemblyVersion>
+	  <!-- Assembly version for .NET runtime -->
   </PropertyGroup>
 
   <ItemGroup>
@@ -28,9 +36,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="README.html">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="README.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

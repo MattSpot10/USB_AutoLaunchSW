@@ -48,9 +48,6 @@ namespace USB_AutoLaunchSW
         private NotifyIcon trayIcon;
         private ContextMenuStrip trayMenu;
 
-        private string DEVICE_ID1 = "VID_0483";//Device VID
-        private string DEVICE_ID2 = "PID_5740";//Device PID
-        private string DEVICE_ID3 = "";//Device Serial Number
 
 
 
@@ -59,7 +56,7 @@ namespace USB_AutoLaunchSW
 
 
 
-        string configFilePath = "config.json";
+        string configFilePath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/USB_AutoLaunchSW.config.json";
         public class USBSettings
         {
             public string VendorID { get; set; }

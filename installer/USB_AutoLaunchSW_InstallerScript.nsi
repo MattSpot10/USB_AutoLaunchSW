@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 !define PRODUCT_NAME "USB_AutoLaunchSW"
-!define PRODUCT_VERSION "1.0.0"
+!define PRODUCT_VERSION "1.0.1"
 !define PRODUCT_PUBLISHER "Matthew Spotten"
 !define PRODUCT_WEB_SITE "https://github.com/MattSpot10/USB_AutoLaunchSW"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\USB_AutoLaunchSW.exe"
@@ -110,6 +110,14 @@ Section Uninstall
   Delete "$INSTDIR\Newtonsoft.Json.dll"
   Delete "$INSTDIR\icon.ico"
   Delete "$INSTDIR\HELP.html"
+  
+  ; Delete the config file from the user's Documents folder
+  # Get the path to the user's Documents folder
+  ReadEnvStr $0 USERPROFILE
+  StrCpy $1 "$0\Documents\USB_AutoLaunchSW.config.json"
+
+  # Delete the file
+  Delete $1
   
   ; Delete the shortcut from the Startup folder
   Delete "$STARTMENU\Programs\Startup\USB_AutoLaunchSW.lnk"

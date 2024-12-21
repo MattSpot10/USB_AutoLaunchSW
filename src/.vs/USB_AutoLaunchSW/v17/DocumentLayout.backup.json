@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|c:\\users\\mattspot10\\documents\\github\\usb_autolaunchsw\\src\\usb_autolaunchsw\\usb_autolaunchsw.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|solutionrelative:usb_autolaunchsw\\usb_autolaunchsw.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|c:\\users\\mattspot10\\documents\\github\\usb_autolaunchsw\\src\\usb_autolaunchsw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|solutionrelative:usb_autolaunchsw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|c:\\users\\mattspot10\\documents\\github\\usb_autolaunchsw\\src\\usb_autolaunchsw\\usb_autolaunchsw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|solutionrelative:usb_autolaunchsw\\usb_autolaunchsw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|c:\\users\\mattspot10\\documents\\github\\usb_autolaunchsw\\src\\usb_autolaunchsw\\usb_autolaunchsw.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|solutionrelative:usb_autolaunchsw\\usb_autolaunchsw.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{117E0366-7115-40F5-9FC7-68C7644E069D}|USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj|c:\\users\\mattspot10\\documents\\github\\usb_autolaunchsw\\src\\usb_autolaunchsw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,23 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "USB_AutoLaunchSW.csproj",
+              "DocumentIndex": 1,
+              "Title": "USB_AutoLaunchSW",
               "DocumentMoniker": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "RelativeToolTip": "USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T06:09:47.532Z"
+              "WhenOpened": "2024-12-21T21:54:50.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "USB_AutoLaunchSW",
               "DocumentMoniker": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
@@ -58,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Program.cs",
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\Program.cs",
               "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Program.cs",
               "RelativeToolTip": "USB_AutoLaunchSW\\Program.cs",
-              "ViewState": "AgIAAAgBAAAAAAAAAAAjwBcBAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T17:41:35.291Z",
               "EditorCaption": ""
@@ -88,10 +89,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Form1.cs",
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\Form1.cs",
-              "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\STM32F303RE-USB-Oscilloscope\\software\\USB_AutoLaunchSW\\USB_AutoLaunchSW\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\STM32F303RE-USB-Oscilloscope\\software\\USB_AutoLaunchSW\\USB_AutoLaunchSW\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Form1.cs [Design]",
+              "RelativeToolTip": "USB_AutoLaunchSW\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:16:44.078Z"
+              "WhenOpened": "2024-12-17T08:16:44.078Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

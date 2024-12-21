@@ -35,14 +35,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "USB_AutoLaunchSW.csproj",
+              "Title": "USB_AutoLaunchSW",
               "DocumentMoniker": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
               "RelativeToolTip": "USB_AutoLaunchSW\\USB_AutoLaunchSW.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T06:09:47.532Z"
+              "WhenOpened": "2024-12-21T21:54:50.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,7 +65,7 @@
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\Program.cs",
               "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Program.cs",
               "RelativeToolTip": "USB_AutoLaunchSW\\Program.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAEwJkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T17:41:35.291Z",
               "EditorCaption": ""
@@ -88,10 +89,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Form1.cs",
               "RelativeDocumentMoniker": "USB_AutoLaunchSW\\Form1.cs",
-              "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\STM32F303RE-USB-Oscilloscope\\software\\USB_AutoLaunchSW\\USB_AutoLaunchSW\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\STM32F303RE-USB-Oscilloscope\\software\\USB_AutoLaunchSW\\USB_AutoLaunchSW\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\MattSpot10\\Documents\\GitHub\\USB_AutoLaunchSW\\src\\USB_AutoLaunchSW\\Form1.cs [Design]",
+              "RelativeToolTip": "USB_AutoLaunchSW\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T08:16:44.078Z"
+              "WhenOpened": "2024-12-17T08:16:44.078Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
